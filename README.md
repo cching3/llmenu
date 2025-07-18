@@ -2,23 +2,15 @@
 
 ## Inspiration
 
-Many of us have found ourselves with random ingredients or leftovers, unsure of how to use them; so, we created a tool that makes it easy for anyone to turn those ingredients into something delicious.
+Many of us have found ourselves with random ingredients or leftovers, unsure of how to use them; so, I created a tool that makes it easy for anyone to turn those ingredients into something delicious.
 
 ## What it does
 
 LLMenu is an AI-powered recipe engine that takes the ingredients you have on hand and generates several meal suggestions. Our project provides recipes that make the most of your ingredients, helping you reduce food waste, save money, and encourage sustainable cooking.
 
-## How we built it
+## How I built it
 
-We started by designing the user interface in Figma. For the development, we used React, TypeScript, and Convex to make our full-stack app deployment seamless. For user log-in, we integrated Clerk, providing a secure and easy way for users to sign in.
-
-## Challenges we ran into
-
-We faced a couple of key challenges throughout the hackathon, including the fact that none of us had prior hackathon or full-stack development experience. We had to quickly come together as a team, leverage our individual strengths, and learn new skills within the 24 hours. Additionally, we encountered issues with the LLM producing inconsistent results. We had to dive into prompt engineering to fine-tune the outputs and ensure that the recipe suggestions were relevant, which took much trial and error.
-
-## Accomplishments that we're proud of
-
-We built an efficient and user-friendly interface to ensure the best user experience. We also successfully integrated the LLM into our platform.
+I started by designing the user interface in Figma. For the development, I used React, TypeScript, and Convex to make our full-stack app deployment seamless. For user log-in, I integrated Clerk, providing a secure and easy way for users to sign in.
 
 
 <!-- npm install convex
